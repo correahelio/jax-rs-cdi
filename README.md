@@ -1,0 +1,1 @@
+Criando projeto de exemplo para usar JAX-RS e CDI.
